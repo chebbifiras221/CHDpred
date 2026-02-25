@@ -104,8 +104,6 @@ Accuracy: 85%
 
 ## 📽 Project Presentation
 
-Add your presentation PDF inside the repository and link it like this:
-
 [View Project
 Presentation](./Coronary_Heart_Disease_CHD_Prediction_PySpark.pdf)
 
